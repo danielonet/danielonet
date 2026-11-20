@@ -38,6 +38,12 @@ Most of my open-source work is about one idea: **helping developers work better 
 
 ### ✍️ My LinkedIn articles
 
-I write about AI engineering, developer tools and enterprise AI on LinkedIn.
+I write about AI engineering, token costs, developer tools and team leadership.
 
-👉 [**Read all my articles on LinkedIn**](https://www.linkedin.com/in/danielonnet/recent-activity/articles/)
+- [Stop Paying Tokens for Work a Rule Engine Can Do](https://www.linkedin.com/pulse/stop-paying-tokens-work-rule-engine-can-do-daniel-driechlinger-de5pf)
+- [The Token Economy's Blind Spot](https://www.linkedin.com/pulse/token-economys-blind-spot-daniel-driechlinger-p1wvf)
+- [How Can You Keep Your Edge in the AI Era?](https://www.linkedin.com/pulse/how-can-you-keep-your-edge-ai-era-daniel-driechlinger-rb0nf)
+- [The Self-Managing Team](https://www.linkedin.com/pulse/self-managing-team-daniel-driechlinger-9xugf)
+- [The Second Product Theory](https://www.linkedin.com/pulse/second-product-theory-daniel-driechlinger-pieyf)
+
+👉 [All my articles on LinkedIn](https://www.linkedin.com/in/danielonnet/recent-activity/articles/)
