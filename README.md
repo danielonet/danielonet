@@ -1,20 +1,11 @@
 <div align="center">
 
-```text
-    ╭──────────────────────────────────────────────────╮
-   ╱ ○                                     ╥  ╥  ╥  ╥  │
-  │ ┌───┐   ╔═════════════╗  ▪  ▪          ║  ║  ║  ║  │
-  │ │USB│   ║░┌─────────┐░╟────────────────╢  ║  ║  ║  │
-  │ └───┘   ║░│         │░╟────────────────╢  ║  ║  ║  │
-  │ ┌───┐   ║░│   CPU   │░║                ║  ║  ║  ║  │
-  │ │LAN│   ║░│         │░║  ▪  ▪          ╨  ╨  ╨  ╨  │
-  │ └───┘   ║░└─────────┘░║  ▪  ▪                      │
-  │ ◦ ◦ ◦   ╚════════╩════╝         ┌───────┐        ○ │
-  │        ○         ╰──────────────┤  PCH  │   ╭──────╯
-  ╰──────╮  ╞══ PCIe x1 ═════════╡  └───────┘   │
-         │ ╞══ PCIe x16 ═════════════════════╡  │
-         ╰──────────────────────────────────────╯
-```
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/motherboard-small-dark@2x.png 2x">
+  <source media="(max-width: 600px)" srcset="assets/motherboard-small-light@2x.png 2x">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/motherboard-large-dark@2x.png 2x">
+  <img src="assets/motherboard-large-light@2x.png" srcset="assets/motherboard-large-light@2x.png 2x" alt="ASCII-art motherboard with CPU socket, DIMM slots, chipset and PCIe slots">
+</picture>
 
 ### Hi, I'm Daniel Driechlinger 👋
 
