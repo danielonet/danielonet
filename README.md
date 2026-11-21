@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0e1a2b&height=180&section=header&text=Daniel%20Driechlinger&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Big%20Data%20%C2%B7%20Scrum%20Master&descAlignY=58&descSize=18" alt="banner"/>
+```text
+╺┳┓┏━┓┏┓╻╻┏━╸╻
+ ┃┃┣━┫┃┗┫┃┣╸ ┃
+╺┻┛╹ ╹╹ ╹╹┗━╸┗━╸
+```
 
-<a href="https://github.com/danielonet/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Building+AI+tools+for+developers;Fewer+tokens%2C+more+context;Supervised+AI+development" alt="typing"/></a>
+**Software Engineer @ AT&T · Scrum Master · Big Data Developer · AI Engineer & Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielonnet-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielonnet/)
-![Followers](https://img.shields.io/github/followers/danielonet?style=social)
 
 </div>
 
-## 🧰 Tech
+```text
+$ whoami
+daniel — software engineer @ AT&T
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka,spark,docker,kubernetes,vscode,idea,git&perline=10" alt="skills"/>
-</p>
+$ cat mission.txt
+Make AI a practical, trustworthy part of everyday engineering.
+```
 
-## 📊 GitHub stats
+| 🔭 Working on | 💬 Ask me about | ⚡ Fun fact |
+| --- | --- | --- |
+| [RefDex](https://github.com/danielonet/refdex), [app-brain](https://github.com/danielonet/app-brain), [Pyrite](https://github.com/danielonet/pyrite) | Token costs, Java, big data, self-managing teams | I built a home SOC for my LAN |
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielonet&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielonet&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
-</p>
+## 🛠️ What I'm building
 
-## 🚀 Featured projects
+One idea runs through my open-source work: **help developers work better with AI**, at the lowest token cost, with the developer in control.
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/danielonet/refdex"><b>RefDex</b></a><br>Code index for AI assistants over MCP.</td>
-<td width="50%"><a href="https://github.com/danielonet/app-brain"><b>app-brain</b></a><br>Approved, plain-language docs for agents.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/danielonet/pyrite"><b>Pyrite</b></a><br>Read Python as if it were Java.</td>
-<td><a href="https://github.com/danielonet/heimdall"><b>Heimdall</b></a><br>Home SOC + NOC in one box.</td>
-</tr>
-</table>
+- [**RefDex**](https://github.com/danielonet/refdex): code index for AI assistants over MCP, so tasks use fewer tokens. On the [VS Code](https://marketplace.visualstudio.com/items?itemName=danielonnet.refdex) and [JetBrains](https://plugins.jetbrains.com/plugin/34561-refdex) marketplaces.
+- [**app-brain**](https://github.com/danielonet/app-brain): agent-written, human-approved docs that agents read over MCP instead of re-reading the code.
+- [**Pyrite**](https://github.com/danielonet/pyrite): read Python as if it were Java. Supervised AI development for [VS Code](https://marketplace.visualstudio.com/items?itemName=danielonnet.pyrite).
+- [**trafilatura-java**](https://github.com/danielonet/trafilatura-java) · [**jusText-java**](https://github.com/danielonet/jusText-java): clean text extraction and boilerplate removal, on Maven Central.
+- [**Heimdall**](https://github.com/danielonet/heimdall): home SOC and NOC in one box.
+- [**Midnight Fox**](https://github.com/danielonet/midnight-fox): Firefox dark mode that remaps colors instead of inverting them.
 
-## ✍️ My LinkedIn articles
+## ✍️ Writing
 
 I write about AI engineering, token costs, developer tools and team leadership.
 
@@ -46,5 +46,3 @@ I write about AI engineering, token costs, developer tools and team leadership.
 - [The Second Product Theory](https://www.linkedin.com/pulse/second-product-theory-daniel-driechlinger-pieyf)
 
 👉 [All my articles on LinkedIn](https://www.linkedin.com/in/danielonnet/recent-activity/articles/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a2b,100:0A66C2&height=90&section=footer" width="100%" alt="footer"/>
