@@ -11,7 +11,7 @@
 
 **Software Engineer @ AT&T · Scrum Master · Big Data Developer · AI Engineer & Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielonnet-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielonnet/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldriechlinger-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldriechlinger/)
 
 </div>
 
@@ -48,5 +48,5 @@ I write about AI engineering, token costs, developer tools and team leadership.
 - [The Self-Managing Team](https://www.linkedin.com/pulse/self-managing-team-daniel-driechlinger-9xugf)
 - [The Second Product Theory](https://www.linkedin.com/pulse/second-product-theory-daniel-driechlinger-pieyf)
 
-👉 [All my articles on LinkedIn](https://www.linkedin.com/in/danielonnet/recent-activity/articles/)
+👉 [All my articles on LinkedIn](https://www.linkedin.com/in/danieldriechlinger/recent-activity/articles/)
 
