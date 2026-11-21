@@ -1,10 +1,13 @@
 <div align="center">
 
 ```text
-╺┳┓┏━┓┏┓╻╻┏━╸╻
- ┃┃┣━┫┃┗┫┃┣╸ ┃
-╺┻┛╹ ╹╹ ╹╹┗━╸┗━╸
+    ·    +     .  ˙  *  ˙  .     +    ·
+╶───────╮        · · ◆ · ·        ╭───────╴
+        ╰───○────────┼────────○───╯
+             ˙   ·   ╵   ·   ˙
 ```
+
+### Hi, I'm Daniel Driechlinger 👋
 
 **Software Engineer @ AT&T · Scrum Master · Big Data Developer · AI Engineer & Builder**
 
@@ -46,3 +49,14 @@ I write about AI engineering, token costs, developer tools and team leadership.
 - [The Second Product Theory](https://www.linkedin.com/pulse/second-product-theory-daniel-driechlinger-pieyf)
 
 👉 [All my articles on LinkedIn](https://www.linkedin.com/in/danielonnet/recent-activity/articles/)
+
+<div align="center">
+
+```text
+             ˙   ·   ╷   ·   ˙
+        ╭───○────────┼────────○───╮
+╶───────╯        · · ◆ · ·        ╰───────╴
+    ·    +     .  ˙  *  ˙  .     +    ·
+```
+
+</div>
